@@ -8,7 +8,7 @@ import (
 func getG() unsafe.Pointer
 //func getGInterface() interface{}
 
-var goIDOffset uintptr
+var goIDOffset uintptr = 152
 
 //func init() {
 //	g := getGInterface()

@@ -1,7 +1,7 @@
 package syncmap
 
 import (
-	"github.com/cabbage217/gls/goid"
+	"../../goid"
 	"sync"
 )
 

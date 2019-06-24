@@ -1,7 +1,7 @@
 package singlelock
 
 import (
-	"github.com/jasonyuan/gls/goid"
+	"gls/goid"
 	"sync"
 )
 var gls struct {

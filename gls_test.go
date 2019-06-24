@@ -1,8 +1,8 @@
 package gls
 
 import (
-	"./alt/singlelock"
-	"./alt/syncmap"
+	"github.com/cabbage217/gls/alt/singlelock"
+	"github.com/cabbage217/gls/alt/syncmap"
 	"math/rand"
 	"strconv"
 	"sync"
